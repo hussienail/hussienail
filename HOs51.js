@@ -1,3 +1,6 @@
+setTimeout (function (){   $("<div class='fr borderg' style='padding:2px;background-color:white;margin-right: 0;margin-top: 1px;position: absolute;right: 0;<a href='//a></div>").insertAfter($(".loginstat"));  },1000);
+    $(`
+
 <div class="rainbow"><img src="https://d.top4top.io/p_15936xn5g1.jpg" class="fl" style="width:100%;margin-top: 1px;background-color: white;border-radius: 10px;"></div>
 
 
@@ -69,3 +72,5 @@ clearInterval(myVar);
 
 }else{console.log(usmsgw)} }, 2000);
 })
+
+
