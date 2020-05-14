@@ -38,7 +38,7 @@ $('.break.light').css({"background-image":"url(https://c.top4top.io/p_1593s47ae1
 
 $(`<div style=" padding: 3px;margin: 2px; border: 1px solid #D6E3E3;height: 29px;width: 106px;" class="btn " type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">الادارة</div>
 <div class="collapse" id="collapseExample"><div style="text-align: center;font-family: 'jazeera';color: #C91212;" class="well">
-<p class="bg-primary">｢ حسين النعيمي ｣｢<p class="bg-primary">｢للشكاوي والاقتراحات ｣｢</p><p class="bg-primary">｢نارين النعيمي ｣｢</p>｢ اصحاب الموقع ｣｢</div> 
+<p class="bg-primary">｢ حسين النعيمي ｣｢<p class="bg-primary">｢للشكاوي والاقتراحات ｣｢</p><p class="bg-primary">｢فيصل  ｣｢</p>｢ اصحاب الموقع ｣｢</div> 
 
 
 
