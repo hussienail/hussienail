@@ -2,7 +2,7 @@ $(` <center><div></div><center>
 <div style=" width: 100%; "  id="as" margin: 2px;" class="btn btn-primary btn-asim" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">● · مـوسـيـقـى · ●</div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"></i>
 </p>شغل الموسيقى حتى ليفصل الشات</p>
 <audio controls loop="" autoplay="">
-<source src="http://stream.zeno.fm/rmwwdtg9uwzuv">
+<source src="اغاني">
 </audio>
 </div><center>`).insertBefore('label.nosel.ninr.fl.uzr.label.label-primary'),
 
@@ -36,7 +36,7 @@ $_SESSION['css_show_key'] = "Mr.Ajax";
 .fr.borderg {color: #000000;}
 div#tlogins .hand.nosel.fl.uzr.border, .lonline.light.break {background-image: url(#);}
 #asim7 {margin-bottom: 3px; height: 26px; color: #780444; border-radius: 5px 5px 5px 5px; border-bottom: 2px solid #FF0897; border-top: 2px solid #FF0897; padding-bottom: 2px!important; font-family: 'jazeera',FontAwesome; font-size: 16px!important; padding: 2px 10px 2px 10px;}
-.asim11 {background-image: url(https://chat-iraq.com/sico/z1e8ck1lah10.png);}
+.asim11 {background-image: url(#);}
 .btn.btn-primary.btn-sm {
     background-color: #AB325E!important;
 }
@@ -85,9 +85,9 @@ outline: 0;
     -webkit-box-shadow: inset 0 2px 2px rgba(0,0,0,.075), 0 0 8px rgba(214,90,94);
     box-shadow: inset 0 2px 2px rgba(0,0,0,.075), 0 0 8px rgba(214,90,94);border: 1px solid #FFE0F6;
 }
-.btn-sm, .btn-sm {background-image: url(https://g.top4top.io/p_1596v1fxr1.png);}
-.border.corner.light.fr.break {background-image: url(https://g.top4top.io/p_1596v1fxr1.png);}
-.asim12 {background-image: url(https://g.top4top.io/p_1596v1fxr1.png); border-radius: 10px 10px 10px 10px; font-family: 'jazeera',FontAwesome; padding: 2px 10px 2px 10px; margin:7px 10px 7px 10px;}
+.btn-sm, .btn-sm {background-image: url(#);}
+.border.corner.light.fr.break {background-image: url(#);}
+.asim12 {background-image: url(#); border-radius: 10px 10px 10px 10px; font-family: 'jazeera',FontAwesome; padding: 2px 10px 2px 10px; margin:7px 10px 7px 10px;}
 label.fl.label.loginstat.label-success {
     border-radius: 5px 5px 5px 5px!important;
     font-family: 'jazeera',FontAwesome;
