@@ -8,13 +8,14 @@ style="width:100%;margin-right: 2px;">
 <div style=" width: 100%; border-radius:0 0 20px 20px; background-color:DB5151" class="btn btn-primary btn-sm"type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria- fa-share"></div></></div>`).insertBefore('.nav-tabs');
 $(".border.corner").css("border-radius","24px 24px 24px 24px");
 $(".border.corner").css("border-radius","15px 3px 15px 15px")
+$(".fa-gear").text("الاعدادات ").css("width","")
 $(`<link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera">
 <link rel="stylesheet" href="https://raw.githack.com/iqr30/my-css-js-html/master/as2.css">
 <style>
 <style>`).insertBefore('body');
 $(` <center><div style=" width: 100%;height: auto!important; "  id="sa" margin: 2px;" class="fa fa-heartbeat btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">&nbsp; ● •( إضغط هنا واستمع للراديو)• ● &nbsp;</div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"></i></p>راديو المحبه</p><audio controls loop="" play=""><source src="https://listen.radioking.com/radio/96766/stream/136030"></audio></div><center>`).insertBefore('label.nosel.ninr.fl.uzr.label.label-primary')
-$('.break.light').css({"background-image":"url(sico/1574013805877.jpg)"});
-$(`<center><font size="4" color="#C74653"> <marquee direction="right" width="100%" height="20" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5" style="height: 20px; width: 100%;"> مرحباً بك ضيفنا الكريم في شات عشق فلسطين ، من أجل راحتك، شات المحبه  يجمع بين الجميع، 
+$('.break.light').css({"background-image":"url(https://k.top4top.io/p_1596291o11.gif"});
+$(`<center><font size="4" color="#C74653"> <marquee direction="right" width="100%" height="20" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5" style="height: 20px; width: 100%;"> مرحباً بك ضيفنا الكريم في شات المحبه ، من أجل راحتك، شات المحبه  يجمع بين الجميع، 
  شكراً لك على تعاونك معنا، ونتمنى لك يوماً سعيداً - كل عام وانتم بخير  👋</marquee></font><center>`).insertBefore('#d2');
 													}
 														catch (e){
