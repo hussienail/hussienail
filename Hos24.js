@@ -38,13 +38,13 @@ $('.break.light').css({"background-image":"url(https://c.top4top.io/p_1593s47ae1
 
 $(`<div style=" padding: 3px;margin: 2px; border: 1px solid #D6E3E3;height: 29px;width: 106px;" class="btn " type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">الادارة</div>
 <div class="collapse" id="collapseExample"><div style="text-align: center;font-family: 'jazeera';color: #C91212;" class="well">
-<p class="bg-primary">｢ فيصل ｣｢<p class="bg-primary">｢للشكاوي والاقتراحات ｣｢</p><p class="bg-primary">｢حسين النعيمي  ｣｢</p>｢ النايفه ｣｢</div> 
+<p class="bg-primary">｢ فيصل ｣｢<p class="bg-primary">｢للشكاوي والاقتراحات ｣｢</p><p class="bg-primary">｢النايفه  ｣｢</p>｢ حسين النعيمي ｣｢</div> 
 
 
 
 </div>`).insertBefore('a.fl.fa.fa-comment.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.upm.borderg');
 
-$(`<img tabindex="0" class="al120 fl " style="margin-left: -4px; padding:5px; width:40px;margin-top: -4px;" src="https://c.top4top.io/p_1593s47ae1.gif" data-original-title="" title=""><img tabindex="https://c.top4top.io/p_1593s4" class="al121 fl " style="padding:5px;width: 33px;margin-top: 0px;margin-left: -6px;" src="" data-original-title="" title="">`).insertAfter('img.fl.nosel.emobox');
+$(`<img tabindex="0" class="al120 fl " style="margin-left: -4px; padding:5px; width:40px;margin-top: -4px;" src="https://i.top4top.io/p_1598k5jsn1.gif" data-original-title="" title=""><img tabindex="https://c.top4top.io/p_1593s4" class="al121 fl " style="padding:5px;width: 33px;margin-top: 0px;margin-left: -6px;" src="" data-original-title="" title="">`).insertAfter('img.fl.nosel.emobox');
 $(".al120").click(function(){
 alert("عذرا لا تملك الصلاحية للدخول الى منتدى النايفه) ");
 });
