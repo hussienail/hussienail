@@ -1,4 +1,4 @@
-														$(`<img src="#" class="fr" style="width:100%;margin-right: 1px;
+													$(`<img src="#" class="fr" style="width:100%;margin-right: 1px;
 <div><marquee direction="right" width="99%" id="asim7" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="2">    اهلاوسهلاا بكم في شات المحبه للجوال: وكل عام ونتم بخير وعيدكم مبارك  ●·  </marquee></div>
 <div id="asim10"><a id="asim21" href="contact.html" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">اتصل بنا</a>
 <a id="asim21" href="mobile.html" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">التطبيق</a>
