@@ -1,0 +1,13 @@
+if(location.protocol!='https:'){location.protocol='https:';}
+
+Tsend_=Tsend;
+reqlikes=100;
+Tsend=function(){if(getuser(myid).rep<reqlikes){alert(' لإ يمكنك الكتابة عام يتطلب منك الحصول على لايكات'+reqlikes+' '); return;}else{Tsend_();}}
+
+sendpic_=sendpic;
+reqlikes=100;
+sendpic=function(){if(getuser(myid).rep<reqlikes){alert(' لإ يمكنك تغير صورتك يتطلب منك الحصول على لايكات '+reqlikes+''); return;}else{sendpic_();}}
+
+setprofile_=setprofile;
+reqlikes=100;
+setprofile=function(){if(getuser(myid).rep<reqlikes){alert('لا يمكنك حفظ الأعدادات يتطلب منك الحصول على لايكات '+reqlikes+''); return;}else{setprofile_();}}
